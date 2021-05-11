@@ -8,7 +8,6 @@
        <li>JS
     </ul>
     <h3>Backend
-<ul>Techologies used:
 <li>Flask (Python)
        <li> Sqlite (Database)
       </ul>
